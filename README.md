@@ -1,6 +1,6 @@
-<h1>This is Natthawee Koengfak's profile</h1>
+<h1>This is Natthawee's profile:sparkles:</h1>
 
-<h3>His work</h3>
+<h3>His work:pushpin:</h3>
 
 <details><summary>Programming</summary>
   <ul>
@@ -24,7 +24,7 @@
 
 <details><summary>Software Design </summary>
   <ul>
-    <li><a href='https://github.com/etnk125/Tram_tracking_draft'> tram tracking software design</a></li>
+    <li><a href='https://github.com/etnk125/Tram_tracking_draft'> Tram Tracking Software Design</a></li>
   </ul>
 </details>
 <details><summary>Mathematics Project</summary>
@@ -32,11 +32,15 @@
     <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Got 2 Awards </a></li>
   </ul>
 </details>
-<br>
-<details><summary>Mathematics Project</summary>
-  <ul>
-    <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Got 2 Awards </a></li>
-  </ul>
+
+---
+
+<h3>About Natthawee:man:</h3>
+<details open><summary>His current position</summary>
+<pre>
+- 3rd-years computer engineering at Mahidol University
+- Chairperson of MUGO | Mahidol GO club (GO chess)
+</pre>
 </details>
 
 ---
