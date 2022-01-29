@@ -1,6 +1,6 @@
-# This is Natthawee Koengfak's profile
+<h1>This is Natthawee Koengfak's profile</h1>
 
-## His work
+<h3>His work</h3>
 
 <details><summary>Programming</summary>
   <ul>
@@ -32,8 +32,15 @@
     <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Got 2 Awards </a></li>
   </ul>
 </details>
-<a href="https://github.com/jstrieb/github-stats">
-  ![](https://github.com/etnk125/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/etnk125/github-stats/blob/master/generated/languages.svg)
+<br>
+<details><summary>Mathematics Project</summary>
+  <ul>
+    <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Got 2 Awards </a></li>
+  </ul>
+</details>
 
-</a>
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etnk125&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=15)
+
+---
