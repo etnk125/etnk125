@@ -35,7 +35,7 @@
     <li><a href='https://github.com/etnk125/YAHTZEE'>YAHTZEE</a></li>
     <li><a href='https://github.com/etnk125/GPACalculator'>GPA calculator with bootstrap</a></li>
     <li><a href='https://github.com/etnk125/EGCO427-WebProgramming'>Web programming classwork</a></li>
-    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>Frist React Project | Search API</a></li>
+    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>1st React Project | Search API</a></li>
   </ul>
 </details>
 
