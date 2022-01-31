@@ -49,7 +49,7 @@
 </ul></details>
 <details open><summary>Basic</summary><ul>
     <li><a href='https://www.linkedin.com/learning/certificates/93ffcef5fa32b4f5039acb557ca84e47981a33f9c53c6e11d534f1b851574c6c?u=91782594'>C# Essential Training: 1 Syntax and Object Oriented Programming </a></li>
-    <li><iframe src="https://onedrive.live.com/embed?cid=7460ADBD959C6D44&resid=7460ADBD959C6D44%211001&authkey=ANeL9cCfgXGJUcM&em=2" max-width="120" max-height="120" frameborder="0" scrolling="no"></iframe></li>
+    <iframe src="https://onedrive.live.com/embed?cid=7460ADBD959C6D44&resid=7460ADBD959C6D44%211001&authkey=ANeL9cCfgXGJUcM&em=2" width="120" height="120" frameborder="0" scrolling="no"></iframe>
 </ul></details>
 
 ---
