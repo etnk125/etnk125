@@ -2,13 +2,13 @@
 
 <h3>His work:pushpin:</h3>
 
-<details><summary>Programming</summary>
+<details  ><summary>Programming</summary>
   <ul>
     <details open><summary>Python</summary>
       <ul>
         <li><a href='https://github.com/etnk125/borntoDev-devlab'>DevLab</a></li>
         <li><a href='https://github.com/etnk125/Codewar'>CodeWar</a></li>
-        <li><a href='https://github.com/etnk125/borntoDev-devlab'>Backend edit data by recursion</a></li>
+        <li><a href='https://github.com/etnk125/borntoDev-devlab'>Backend simply recursive</a></li>
       </ul>
     </details>
     <details open><summary>C/C++</summary>
@@ -30,12 +30,12 @@
     
   </ul>
 </details>
-<details ><summary>Web Development </summary>
+<details><summary>Web Development </summary>
   <ul>
     <li><a href='https://github.com/etnk125/YAHTZEE'>YAHTZEE</a></li>
     <li><a href='https://github.com/etnk125/GPACalculator'>GPA calculator with bootstrap</a></li>
     <li><a href='https://github.com/etnk125/EGCO427-WebProgramming'>Web programming classwork</a></li>
-    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>1st React Project | Search API</a></li>
+    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>1st React Project | Search API(In private ,Now mocking data)</a></li>
   </ul>
 </details>
 
