@@ -9,6 +9,8 @@
         <li><a href='https://github.com/etnk125/borntoDev-devlab'>DevLab</a></li>
         <li><a href='https://github.com/etnk125/Codewar'>CodeWar</a></li>
         <li><a href='https://github.com/etnk125/borntoDev-devlab'>Backend simply recursive</a></li>
+        <li><a href='https://github.com/etnk125/Python-OOP-learning'>
+Python OOP course</a></li>
       </ul>
     </details>
     <details open><summary>C/C++</summary>
