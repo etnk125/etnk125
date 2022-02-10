@@ -2,15 +2,15 @@
 
 <h3>His work:pushpin:</h3>
 
-<details  ><summary>Programming</summary>
+<details><summary>Programming</summary>
   <ul>
     <details open><summary>Python</summary>
       <ul>
         <li><a href='https://github.com/etnk125/borntoDev-devlab'>DevLab</a></li>
         <li><a href='https://github.com/etnk125/Codewar'>CodeWar</a></li>
-        <li><a href='https://github.com/etnk125/borntoDev-devlab'>Backend simply recursive</a></li>
-        <li><a href='https://github.com/etnk125/Python-OOP-learning'>
-Python OOP course</a></li>
+        <li><a href='https://github.com/etnk125/borntoDev-devlab'>Simply edit dict by recursive</a></li>
+        <li><a href='https://github.com/etnk125/Fetch-Data-and-Display'>Fetch data from API and display some info</a></li>
+        <li><a href='https://github.com/etnk125/Python-OOP-learning'>Python OOP course</a></li>
       </ul>
     </details>
     <details open><summary>C/C++</summary>
