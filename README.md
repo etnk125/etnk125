@@ -34,10 +34,11 @@
 </details>
 <details><summary>Web Development </summary>
   <ul>
+    <li><a href='https://github.com/etnk125/wordle-assistance'>React | WORDLE Assistance</a></li>
+    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>React | Search API(In private ,Now mocking data)</a></li>
     <li><a href='https://github.com/etnk125/YAHTZEE'>YAHTZEE</a></li>
     <li><a href='https://github.com/etnk125/GPACalculator'>GPA calculator with bootstrap</a></li>
     <li><a href='https://github.com/etnk125/EGCO427-WebProgramming'>Web programming classwork</a></li>
-    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>1st React Project | Search API(In private ,Now mocking data)</a></li>
   </ul>
 </details>
 
