@@ -2,7 +2,7 @@
 
 <h3>His work:pushpin:</h3>
 
-<details><summary>Programming</summary>
+<details open><summary>Programming</summary>
   <ul>
     <details open><summary>Python</summary>
       <ul>
@@ -28,28 +28,39 @@
         <li><a href='https://github.com/etnk125/Swinging-Monkey-Puzzle'>Swinging Monkey Puzzle</a></li>
         <li><a href='https://github.com/etnk125/Chushajo'>Chushajo</a></li>
       </ul>
-    </details>
-    
-  </ul>
-</details>
-<details><summary>Web Development </summary>
-  <ul>
-    <li><a href='https://github.com/etnk125/wordle-assistance'>React | WORDLE Assistance</a></li>
-    <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>React | Search API(In private ,Now mocking data)</a></li>
-    <li><a href='https://github.com/etnk125/YAHTZEE'>YAHTZEE</a></li>
-    <li><a href='https://github.com/etnk125/GPACalculator'>GPA calculator with bootstrap</a></li>
-    <li><a href='https://github.com/etnk125/EGCO427-WebProgramming'>Web programming classwork</a></li>
+    </details> 
   </ul>
 </details>
 
-<details ><summary>Software Design </summary>
+<details open><summary>Web Development </summary>
+  <ul>
+    <details open><summary>frontend </summary>
+      <ul>
+        <li><a href='https://github.com/etnk125/wordle-assistance'>React | WORDLE Assistance</a></li>
+        <li><a href='https://github.com/etnk125/lmwn-frontend-asg'>React | LMWN-search-API</a></li>
+        <li><a href='https://github.com/etnk125/YAHTZEE'>YAHTZEE</a></li>
+        <li><a href='https://github.com/etnk125/GPACalculator'>GPA calculator with bootstrap</a></li>
+        <li><a href='https://github.com/etnk125/EGCO427-WebProgramming'>Web programming classwork</a></li>
+      </ul>
+    </details>
+    <details open><summary>backend </summary>
+      <ul>
+        <li><a href='https://github.com/etnk125/jwt-practice'>JWT | Authentication</a></li>
+      </ul>
+    </details>
+  </ul>
+</details>
+
+<details open><summary>Software Design </summary>
   <ul>
     <li><a href='https://github.com/etnk125/Tram_tracking_draft'> Tram Tracking Software Design</a></li>
   </ul>
 </details>
-<details ><summary>Mathematics Project</summary><ul>
-    <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Got 2 Awards </a></li>
+
+<details open><summary>Mathematics Project</summary><ul>
+    <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Winner symposium | top10 thailand </a></li>
 </ul></details>
+
 <details ><summary>Basic</summary><ul>
     <li><a href='https://www.linkedin.com/learning/certificates/93ffcef5fa32b4f5039acb557ca84e47981a33f9c53c6e11d534f1b851574c6c?u=91782594'>C# Essential Training: 1 Syntax and Object Oriented Programming </a></li>
     <li><a href='https://1drv.ms/b/s!AkRtnJW9rWB0h2n9noI3KA7XWLBk'>Essential SQL for Everyone</a></li>
