@@ -101,8 +101,9 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etnk125&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etnk125&show_icons=true&theme=dark&bg_color=161B22&title_color=1F6FEB&icon_color=39DD53&hide_border=true&border_radius=10)
 
+<!-- 39DD53 -->
 ---
 
 <h3 >More Information:</h3> 
