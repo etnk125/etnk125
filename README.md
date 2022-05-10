@@ -80,6 +80,22 @@
   </ul>
 </details>
 
+<details open><summary><a href="">Embedded</a></summary><ul>
+    <li>GPIO raspberry pi 
+      <ul>
+        <li>button using interrupt</li>
+        <li>7seg</li>
+        <li>lcd</li>
+        <li>adc fsr</li>
+      </ul>
+    </li>
+    <li>Datalogger on google sheet</li>
+    <li>NETPIE</li>
+    <li>Line notification</li>
+    <li>Flask for being server</li>
+    <li>Line chatbot with dialog flow and ngrok</li>
+</ul></details>
+
 <details open><summary>Mathematics Project</summary><ul>
     <li><a href='https://github.com/etnk125/The-Study-of-Mathematical-Relationship-from-Desperado-Puzzle'> The Study of Mathematical Relationship from Desperado Puzzle | Winner symposium | top10 thailand </a></li>
 </ul></details>
