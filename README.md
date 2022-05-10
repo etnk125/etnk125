@@ -80,7 +80,7 @@
   </ul>
 </details>
 
-<details open><summary><a href="">Embedded</a></summary><ul>
+<details open><summary><a href="https://github.com/etnk125/Raspi">Embedded</a></summary><ul>
     <li>GPIO raspberry pi 
       <ul>
         <li>button using interrupt</li>
