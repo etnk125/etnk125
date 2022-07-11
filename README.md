@@ -56,7 +56,6 @@
     <ul>
         <li><a href='https://github.com/egco427-webprogramming/group04_project'>MEVN | Ecommerce cloth store</a></li>
         <li><a href='https://github.com/etnk125/contact3125'>MEVN | Contact</a></li>
-      
     </ul>
     </details>
     <details open><summary>frontend </summary>
