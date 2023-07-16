@@ -113,7 +113,9 @@
 <h3>About Natthawee:man:</h3>
 <details open><summary>His current position</summary>
 <pre>
-- 3rd-years computer engineering at Mahidol University
+- KBTG software engineer
+- Former Agoda software engineer intern
+- Graduated Computer engineer from Mahidol University
 - Chairperson of MUGO | Mahidol GO club (GO chess)
 </pre>
 </details>
